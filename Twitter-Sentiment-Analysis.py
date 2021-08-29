@@ -9,10 +9,10 @@ from htbuilder.funcs import rgba, rgb
 from PIL import Image
 
 #APIs
-api_key = "VBvDXjTtyn327kL08S6FiqD0t"
-api_key_secret = "U38KIeEZSbzGsis9i46GwaDV4NazoYP0PaRy3P3pr8hk0TE7jy"
-access_token = "1404705774400540674-ls6I5Nswv5u8WeBYUltil1fOWgi2iM"
-access_token_secret = "SN1c2B85t5FwKWLnvNrkZvuVpokUlhnojblBa3myXhHOB"
+api_key = "Enter API Key Here"
+api_key_secret = "Enter Secret API Key Here"
+access_token = "Enter Access Token Here"
+access_token_secret = "Enter Secret Access Token Here"
 
 st.write("""
 
