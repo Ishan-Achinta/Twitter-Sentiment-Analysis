@@ -1,6 +1,5 @@
 import streamlit as st
 from textblob import TextBlob
-import streamlit as st
 import pandas as pd
 import tweepy
 from htbuilder import HtmlElement, div, ul, li, br, hr, a, p, img, styles, classes, fonts
